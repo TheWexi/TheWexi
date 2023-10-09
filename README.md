@@ -1,4 +1,3 @@
-[![MasterHead]([https://yandex.com.tr/gorsel/search?cbir_id=237751%2FUIgAreIN-YQNoJj0T_HrVg703&redircnt=1696870703.1&rpt=imageview&url=https%3A%2F%2Favatars.mds.yandex.net%2Fget-images-cbir%2F237751%2FUIgAreIN-YQNoJj0T_HrVg703%2Forig])
 <h1 align="center">Merhaba 👋, ben Wexi</h1><h3 align="center">Türkiye'den tutkulu bir frontend geliştiriciyim</h3><p align="left"> <img src="https://komarev.com/ghpvc/?username=thewexi&label=Profile%20views&color=0e75b6&style=flat" alt="thewexi" /> </p>
 
 
@@ -17,4 +16,4 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=thewexi&show_icons=true&locale=en&layout=compact" alt="thewexi" /></p><p>
 
 &nbsp; <img align="center" src="https://github-readme-stats.vercel.app/api?username=thewexi&show_icons=true&locale=en" alt="thewexi" /></p>
-![snake gif](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake.gif)
+[![MasterHead](https://camo.githubusercontent.com/e1d814ec600df8dc2af0c6a144e7b8578e6803f9ec855f5a829f140409db7788/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4e504d2d2532334342333833372e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d6e706d266c6f676f436f6c6f723d7768697465)https://camo.githubusercontent.com/e1d814ec600df8dc2af0c6a144e7b8578e6803f9ec855f5a829f140409db7788/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4e504d2d2532334342333833372e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d6e706d266c6f676f436f6c6f723d7768697465)
