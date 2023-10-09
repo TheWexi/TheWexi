@@ -1,4 +1,4 @@
-<h1 align="center">Merhaba 👋, ben Wexi</h1><h3 align="center">
+
   ```class TheAlgosfx{
   constructor(...settings) {
     this.name = "Alp"
@@ -9,7 +9,7 @@
     this.job = "developer"
     this.sex = "male"
   }```
-</h3><p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=thewexi" alt="thewexi" /></a> </p>
+
 
 
 
