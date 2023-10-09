@@ -1,4 +1,4 @@
-![MasterHead](https://www.yandex.com.tr/gorsel/search?from=tabbar&img_url=https%3A%2F%2Fi2.wp.com%2Fmiro.medium.com%2F1*4q1rzioc4wD3z0w-Hk9hRg.jpeg&lr=103832&ogl_url=https%3A%2F%2Fi2.wp.com%2Fmiro.medium.com%2F1*4q1rzioc4wD3z0w-Hk9hRg.jpeg&pos=12&rlt_url=https%3A%2F%2Fogrencikariyeri.com%2FAdminFiles%2FCMS%2FContent%2Fwp-content%2Fuploads%2Fgithub.jpg&rpt=simage&text=github%20arka%20plan%20profil%20kapak)
+![MasterHead](https://yandex.com.tr/gorsel/search?cbir_id=237751%2FUIgAreIN-YQNoJj0T_HrVg703&redircnt=1696870703.1&rpt=imageview&url=https%3A%2F%2Favatars.mds.yandex.net%2Fget-images-cbir%2F237751%2FUIgAreIN-YQNoJj0T_HrVg703%2Forig)
 <h1 align="center">Merhaba 👋, ben Wexi</h1><h3 align="center">Türkiye'den tutkulu bir frontend geliştiriciyim</h3><p align="left"> <img src="https://komarev.com/ghpvc/?username=thewexi&label=Profile%20views&color=0e75b6&style=flat" alt="thewexi" /> </p>
 
 
