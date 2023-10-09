@@ -1,4 +1,4 @@
-[![MasterHead](https://yandex.com.tr/gorsel/search?cbir_id=237751%2FUIgAreIN-YQNoJj0T_HrVg703&redircnt=1696870703.1&rpt=imageview&url=https%3A%2F%2Favatars.mds.yandex.net%2Fget-images-cbir%2F237751%2FUIgAreIN-YQNoJj0T_HrVg703%2Forig)
+[![MasterHead]([https://yandex.com.tr/gorsel/search?cbir_id=237751%2FUIgAreIN-YQNoJj0T_HrVg703&redircnt=1696870703.1&rpt=imageview&url=https%3A%2F%2Favatars.mds.yandex.net%2Fget-images-cbir%2F237751%2FUIgAreIN-YQNoJj0T_HrVg703%2Forig](https://wallpapercave.com/wp/wp10294579.jpg))
 <h1 align="center">Merhaba 👋, ben Wexi</h1><h3 align="center">Türkiye'den tutkulu bir frontend geliştiriciyim</h3><p align="left"> <img src="https://komarev.com/ghpvc/?username=thewexi&label=Profile%20views&color=0e75b6&style=flat" alt="thewexi" /> </p>
 
 
